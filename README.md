@@ -318,9 +318,9 @@ This package is open-sourced software licensed under the [MIT license](LICENSE).
 
 ## 📞 Support
 
-- **Documentation**: [GitHub Wiki](https://github.com/SynceraTech/laravel-web-terminal/wiki)
-- **Issues**: [GitHub Issues](https://github.com/SynceraTech/laravel-web-terminal/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/SynceraTech/laravel-web-terminal/discussions)
+- **Documentation**: [GitHub Wiki](https://github.com/elmgdad/laravel-web-terminal/wiki)
+- **Issues**: [GitHub Issues](https://github.com/elmgdad/laravel-web-terminal/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/elmgdad/laravel-web-terminal/discussions)
 - **Email**: [hi@synceratech.com](mailto:hi@synceratech.com)
 
 ---
