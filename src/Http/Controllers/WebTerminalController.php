@@ -1,13 +1,13 @@
 <?php
 
-namespace SmartWF\LaravelWebTerminal\Http\Controllers;
+namespace SynceraTech\LaravelWebTerminal\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Http\JsonResponse;
 use Illuminate\View\View;
 use Illuminate\Routing\Controller;
-use SmartWF\LaravelWebTerminal\Services\TerminalService;
-use SmartWF\LaravelWebTerminal\Services\SecurityService;
+use SynceraTech\LaravelWebTerminal\Services\TerminalService;
+use SynceraTech\LaravelWebTerminal\Services\SecurityService;
 
 class WebTerminalController extends Controller
 {

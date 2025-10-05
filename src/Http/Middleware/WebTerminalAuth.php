@@ -1,11 +1,11 @@
 <?php
 
-namespace SmartWF\LaravelWebTerminal\Http\Middleware;
+namespace SynceraTech\LaravelWebTerminal\Http\Middleware;
 
 use Closure;
 use Illuminate\Http\Request;
 use Illuminate\Http\Response;
-use SmartWF\LaravelWebTerminal\Services\SecurityService;
+use SynceraTech\LaravelWebTerminal\Services\SecurityService;
 
 class WebTerminalAuth
 {

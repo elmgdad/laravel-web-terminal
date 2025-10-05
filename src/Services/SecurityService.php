@@ -1,6 +1,6 @@
 <?php
 
-namespace SmartWF\LaravelWebTerminal\Services;
+namespace SynceraTech\LaravelWebTerminal\Services;
 
 use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Cache;

@@ -45,7 +45,7 @@ We use GitHub issues to track public bugs. Report a bug by [opening a new issue]
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel Web Terminal, please send an email to hi@smartwf.ir. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Laravel Web Terminal, please send an email to hi@synceratech.com. All security vulnerabilities will be promptly addressed.
 
 ## Development Setup
 

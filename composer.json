@@ -1,5 +1,5 @@
 {
-    "name": "smartwf/laravel-web-terminal",
+    "name": "synceratech/laravel-web-terminal",
     "description": "A secure web terminal emulator for Laravel applications with comprehensive security features",
     "type": "library",
     "keywords": [
@@ -13,8 +13,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "SmartWF",
-            "email": "hi@smartwf.ir"
+            "name": "SynceraTech",
+            "email": "hi@synceratech.com"
         }
     ],
     "require": {
@@ -27,18 +27,18 @@
     },
     "autoload": {
         "psr-4": {
-            "SmartWF\\LaravelWebTerminal\\": "src/"
+            "SynceraTech\\LaravelWebTerminal\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "SmartWF\\LaravelWebTerminal\\Tests\\": "tests/"
+            "SynceraTech\\LaravelWebTerminal\\Tests\\": "tests/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "SmartWF\\LaravelWebTerminal\\LaravelWebTerminalServiceProvider"
+                "SynceraTech\\LaravelWebTerminal\\LaravelWebTerminalServiceProvider"
             ]
         }
     },

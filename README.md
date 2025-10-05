@@ -304,7 +304,7 @@ See [CHANGELOG.md](CHANGELOG.md) for release notes and version history.
 
 ## 🐛 Security Issues
 
-If you discover a security vulnerability, please send an email to [hi@smartwf.ir](mailto:hi@smartwf.ir) instead of using the issue tracker.
+If you discover a security vulnerability, please send an email to [hi@synceratech.com](mailto:hi@synceratech.com) instead of using the issue tracker.
 
 ## 📄 License
 
@@ -321,7 +321,7 @@ This package is open-sourced software licensed under the [MIT license](LICENSE).
 - **Documentation**: [GitHub Wiki](https://github.com/smartwf/laravel-web-terminal/wiki)
 - **Issues**: [GitHub Issues](https://github.com/smartwf/laravel-web-terminal/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/smartwf/laravel-web-terminal/discussions)
-- **Email**: [hi@smartwf.ir](mailto:hi@smartwf.ir)
+- **Email**: [hi@synceratech.com](mailto:hi@synceratech.com)
 
 ---
 

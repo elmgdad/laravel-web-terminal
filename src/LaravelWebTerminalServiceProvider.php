@@ -1,12 +1,12 @@
 <?php
 
-namespace SmartWF\LaravelWebTerminal;
+namespace SynceraTech\LaravelWebTerminal;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Log;
-use SmartWF\LaravelWebTerminal\Http\Middleware\WebTerminalAuth;
-use SmartWF\LaravelWebTerminal\Console\Commands\GenerateKeyCommand;
+use SynceraTech\LaravelWebTerminal\Http\Middleware\WebTerminalAuth;
+use SynceraTech\LaravelWebTerminal\Console\Commands\GenerateKeyCommand;
 
 class LaravelWebTerminalServiceProvider extends ServiceProvider
 {

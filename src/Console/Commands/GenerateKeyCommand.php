@@ -1,6 +1,6 @@
 <?php
 
-namespace SmartWF\LaravelWebTerminal\Console\Commands;
+namespace SynceraTech\LaravelWebTerminal\Console\Commands;
 
 use Illuminate\Console\Command;
 use SmartWF\LaravelWebTerminal\Services\SecurityService;
