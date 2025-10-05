@@ -1,0 +1,50 @@
+{
+    "name": "smartwf/laravel-web-terminal",
+    "description": "A secure web terminal emulator for Laravel applications with comprehensive security features",
+    "type": "library",
+    "keywords": [
+        "laravel",
+        "terminal",
+        "web-terminal",
+        "shell",
+        "security",
+        "php"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SmartWF",
+            "email": "hi@smartwf.ir"
+        }
+    ],
+    "require": {
+        "php": "^8.0|^8.1|^8.2|^8.3",
+        "laravel/framework": "^9.0|^10.0|^11.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0|^10.0",
+        "orchestra/testbench": "^7.0|^8.0|^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SmartWF\\LaravelWebTerminal\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "SmartWF\\LaravelWebTerminal\\Tests\\": "tests/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "SmartWF\\LaravelWebTerminal\\LaravelWebTerminalServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
