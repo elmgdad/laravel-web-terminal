@@ -32,7 +32,7 @@ laravel-web-terminal/
 
 ### 1. Install Package
 ```bash
-composer require smartwf/laravel-web-terminal
+composer require SynceraTech/laravel-web-terminal
 ```
 
 ### 2. Publish Configuration
@@ -169,7 +169,7 @@ Visit: `https://yourdomain.com/web-terminal?key=YOUR_GENERATED_KEY`
 
 ## 📞 Support
 
-- **Package Repository**: [GitHub](https://github.com/smartwf/laravel-web-terminal)
+- **Package Repository**: [GitHub](https://github.com/SynceraTech/laravel-web-terminal)
 - **Issues**: Report bugs and feature requests
 - **Documentation**: Complete installation and usage guide
 - **Security**: Responsible disclosure process
